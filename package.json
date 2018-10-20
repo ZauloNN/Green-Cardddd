@@ -1,0 +1,17 @@
+{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "cool-images": "^1.0.1",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "identifier": "0.0.0"
+  }
+}
